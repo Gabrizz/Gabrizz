@@ -1,6 +1,6 @@
 ## Hi, I'm Gabriel Pereira Andrade 👋
 
-I've been enjoying web development since my first big project, which was also my graduation project 🎓, a [remote urban lighting management system](https://drive.google.com/file/d/1avbJtlRiH998c_5EA7h4YtjeRuejCCXV/view?usp=sharing), developed using JavaScript, Angular and MongoDB.
+I've been enjoying web development since my graduation project, a [remote urban lighting management system 📄🎓](https://drive.google.com/file/d/1avbJtlRiH998c_5EA7h4YtjeRuejCCXV/view?usp=sharing), developed using JavaScript, Angular and MongoDB.
 
 - 🔭 I’m currently working on an e-commerce ([Vessel Group](https://www.grupovessel.com) and [Vessel Store](https://loja.grupovessel.com)) as a backend developer, using TypeScript and Firebase
 - 🌱 I’m also learning Python from the [boot.dev](https://www.boot.dev/tracks/backend) carrer path in my spare time
